@@ -1,0 +1,7 @@
+const inputt = require('prompt-sync')({sigint: true})
+let nome = inputt('Digite seu nome: ')
+console.log(typeof nome)
+console.log(`Boa tarde ${nome}`)
+console.log(`Seu nome em maiúsculo: ${nome.toUpperCase()}`)
+console.log(`Seu nome em minúsculo: ${nome.toLowerCase()}`)
+console.log(`Seu nome tem ${nome.length} letras`)
