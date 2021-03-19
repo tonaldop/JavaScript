@@ -1,0 +1,1 @@
+culoDistanciaViagem.parseFloat().toFixed(2).replace('.', ',')}`)
