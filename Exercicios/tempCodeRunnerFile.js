@@ -1,1 +1,2 @@
-culoDistanciaViagem.parseFloat().toFixed(2).replace('.', ',')}`)
+
+console.log('[ 3 ] 2x no cartão de créditos')
